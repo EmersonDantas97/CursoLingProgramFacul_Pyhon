@@ -1,3 +1,5 @@
+# Variaveis, tipos e utilizacao do comando type.
+
 x = 10 # Variavel do tipo inteiro.
 nome = 'aluno' # Variavel do tipo string.
 nota = 8.75 # Variavel do tipo float. Usa ponto inves de virgula. 

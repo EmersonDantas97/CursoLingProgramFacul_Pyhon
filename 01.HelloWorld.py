@@ -1,3 +1,5 @@
+# Comando Hello World
+
 # Iniciando com Hello World, para trazer sorte.
 print('Hello World!') # Pode se utilizar aspas simples ou duplas.
 
