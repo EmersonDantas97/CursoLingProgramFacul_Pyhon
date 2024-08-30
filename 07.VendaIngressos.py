@@ -4,7 +4,7 @@
 idade = int(input("Por favor, digite sua idade: "))
 
 # Verifica a idade para sugestao de filmes
-if idade < 12:
+if idade < 12:  
     print("Recomendamos o filme infantil FILME 1.")
 elif 12 <= idade < 18:
     print("Recomendamos o filme adolescente FILME 2.")
