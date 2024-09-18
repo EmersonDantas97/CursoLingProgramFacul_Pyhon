@@ -33,3 +33,4 @@ print(pessoa1.cumprimentar())
 
 # Acessa o atributo idade atualizado da instância pessoa1 e imprime a nova idade.
 print(f'Nova idade: {pessoa1.idade}') # Saída: Nova idade: 31
+
